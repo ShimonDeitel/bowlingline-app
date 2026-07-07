@@ -1,0 +1,27 @@
+{
+  "identifier" : "BowlinglineConfig",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "$2.99",
+      "familyShareable" : false,
+      "internalID" : "bowlspend_pro_internal",
+      "localizations" : [
+        {
+          "description" : "Unlock Monthly bowling spend trend and per-alley comparison",
+          "displayName" : "Bowlingline Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "bowlspend_pro",
+      "referenceName" : "Bowlingline Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
